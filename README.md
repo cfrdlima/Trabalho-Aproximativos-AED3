@@ -11,7 +11,7 @@ Arquivos de matriz de adjacência .txt no mesmo diretório dos scripts.
 ## Passo 1 – Abrir o terminal
 
 ### Navegue até a pasta do projeto:
-#### cd /caminho/para/trab_1_aed3
+#### cd /caminho/para/Trabalho-Aproximativos-AED3-main
 
 ## Passo 2 – Executar o algoritmo exato
 ### No terminal, execute:
@@ -41,6 +41,7 @@ Custo total da rota
 
 Tempo de execução
 
+#Claudinei de Lima e Lyon Falcão
 
 ## Observações importantes
 
