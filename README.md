@@ -41,8 +41,8 @@ Custo total da rota
 
 Tempo de execução
 
-#Claudinei de Lima e Lyon Falcão
-
 ## Observações importantes
 
 #### Certifique-se de que os arquivos .txt estejam corretamente formatados, com valores numéricos separados por espaços, representando a matriz de adjacência do TSP. O algoritmo exato (Held-Karp) possui complexidade exponencial, então pode demorar muito para matrizes grandes (mais de 15 vértices). O algoritmo aproximativo (Nearest Neighbor + 2-opt) é mais rápido e gera boas soluções para matrizes maiores, mas não garante o custo ótimo. Ambos os scripts suportam a execução em todos os arquivos da pasta caso o usuário pressione Enter sem digitar um arquivo específico.
+
+# Claudinei de Lima e Lyon Falcão
